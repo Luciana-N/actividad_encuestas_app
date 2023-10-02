@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Alinear el texto a la izquierda en las preguntas y opciones */
+.pregunta-opcion-texto {
+  text-align: left;
+}
